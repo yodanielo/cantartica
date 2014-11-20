@@ -1,0 +1,53 @@
+#sidebarportada{
+    margin-left:7px;
+}
+#col2{
+    margin-left:7px;
+    margin-right:7px;
+}
+#col2_a{
+    margin-left:7px;
+    margin-right:7px;
+}
+#col1_a{
+    width:372px!important;
+}
+#col2_b{
+    margin-left:7px;
+    margin-right:7px;
+}
+#col440{
+    margin-left:7px;
+}
+.textoidioma{
+    margin-top:15px;
+}
+.aicol1{
+    float:left;
+    width:96px;
+    margin-left:23px;
+    margin-right:13px;
+}
+.ageitem{
+    float:left;
+    width:378px;
+    height:216px;
+    border-bottom: 1px dotted;
+    margin-left:20px;
+}
+#agecontitems{
+    float:left;
+    clear:both;
+    margin-bottom: 25px;
+    width:828px;
+}
+#detzonatexto{
+    margin-top:55px;
+}
+#fancybox-inner{
+    padding:0px 40px 40px 0px;
+}
+.imgcortado img{
+    position:relative;
+    top:3px;
+}

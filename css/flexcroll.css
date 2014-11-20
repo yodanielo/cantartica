@@ -1,0 +1,50 @@
+.scrollgeneric {
+    line-height: 1px;
+    font-size: 1px;
+    position: absolute;
+    top: 0; left: 0;
+    margin-left:0px;
+    margin:0px;
+
+}
+
+.vscrollerbase {
+    width: 15px;
+    /*background-color: white;*/
+    background:url(../images/scroll_fondo.png) repeat-y;
+    padding-top:1px;
+    position:relative;
+    z-index:9998!important;
+}
+.vscrollerbar {
+    width: 12px;
+    position:relative;
+    left:0px;
+    background: url(../images/scroll_barra.png) repeat-y;
+    margin:0px;
+    z-index:999!important;
+}
+.vscrollerbarbeg{
+    position:relative;
+    z-index:999!important;
+    cursor:pointer;
+}
+.hscrollerbase {
+    height: 12px;
+    background-color: white;
+    margin:0px;
+}
+.hscrollerbar {
+    height: 12px;
+    background-color: black;
+    margin:0px;
+}
+
+.scrollerjogbox {
+    width: 12px;
+    height: 10px;
+    top: auto; left: auto;
+    bottom: 0px; right: 0px;
+    background-color: gray;
+    margin:0px;
+}

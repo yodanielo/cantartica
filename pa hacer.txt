@@ -1,0 +1,22 @@
+en el logotipo un numero
+
+los 4 de cantartica, como el plus de 24seven tomado de los articulos internos del sitio.
+en el cpanel, un optionbox con estas opciones
+1a col
+2a col
+...
+no destacar
+
+el layout una matriz de 15 x 3
+
+el layout dos se pueden poner videos o  fotos, indistinto
+
+el layut tres. la primera columna vacia, la segunda como:
+http://www.cantartica.es/towerhamlets.html
+videos o im�genes
+
+plantilla hacerlo con los diseño que me envió
+poner una alerta en la seleccion de categorías
+plantilla no, "elegir plantilla" -> elige, sale la alerta
+poner el div de las plantillas despues del campo plantilla
+altura minima de la caja de fptografias: 75px
